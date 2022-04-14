@@ -1,0 +1,15 @@
+[submodule "back-end-development-and-apis/timestamp-microservice"]
+	path = back-end-development-and-apis/timestamp-microservice
+	url = https://github.com/TagnumElite/freecodecamp-timestamp-project.git
+[submodule "back-end-development-and-apis/request-header-parser-microservice"]
+	path = back-end-development-and-apis/request-header-parser-microservice
+	url = https://github.com/TagnumElite/freecodecamp-project-headerparser.git
+[submodule "back-end-development-and-apis/url-shortener-microservice"]
+	path = back-end-development-and-apis/url-shortener-microservice
+	url = https://github.com/TagnumElite/freecodecamp-project-urlshortener.git
+[submodule "back-end-development-and-apis/exercise-tracker"]
+	path = back-end-development-and-apis/exercise-tracker
+	url = https://github.com/TagnumElite/freecodecamp-project-exercisetracker.git
+[submodule "back-end-development-and-apis/file-metadata-microservice"]
+	path = back-end-development-and-apis/file-metadata-microservice
+	url = https://github.com/TagnumElite/freecodecamp-project-filemetadata.git
